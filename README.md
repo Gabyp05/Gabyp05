@@ -7,6 +7,9 @@
 - 📫 How to reach me gabyapd05@gmail.com
 IG: gabyp05 
 WhatsApp: +5804142931360
+---
+Hola! Soy Gabriela Patiño, estudiante de Informática.
+actualmente estoy realizando cursos en OpenBootcamp
 
 <!---
 Gabyp05/Gabyp05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
