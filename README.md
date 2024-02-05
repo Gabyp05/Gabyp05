@@ -3,8 +3,8 @@
 
 
 ## 🌐 Contacto:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/gabyp05/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&colorB=555)](https://www.instagram.com/gabyp05/)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white))](https://www.linkedin.com/in/gabyp05/)
+[![Instagram]([https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&colorB=555](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white))](https://www.instagram.com/gabyp05/)
 
 # 💻 Herramientas que utilizo:
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira-Software&logoColor=white)
