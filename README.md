@@ -3,8 +3,7 @@
 
 
 ## 🌐 Contacto:
-[![Instagram][([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white))]](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://instagram.com/gabyp05) 
-
+instagram_badge = "[![Instagram](https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&colorB=555)](https://www.instagram.com/gabyp05/)"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabyp05) 
 
 # 💻 Herramientas que utilizo:
