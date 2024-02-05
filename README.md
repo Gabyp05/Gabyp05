@@ -2,7 +2,7 @@
 ¡Hola! Soy una apasionada QA Tester Manual, siempre en la búsqueda de mejorar y aprender más. <br>Mi atención al detalle me permite detectar y solucionar problemas de manera eficiente, asegurando la calidad del software.<br><br>Además de mi trabajo como tester, tengo un gran interés en la programación frontend. <br>Actualmente estoy aprendiendo JavaScript junto con Astro, React, Tailwind y CSS. <br>Me encanta la creatividad y la lógica que implica el desarrollo frontend y estoy emocionada por aplicar mis habilidades de testing a este nuevo campo.<br><br>Siempre estoy abierta a nuevas oportunidades y desafíos.
 
 
-## 🌐 Contacto:
+# 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/gabyp05) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabyp05) 
 
